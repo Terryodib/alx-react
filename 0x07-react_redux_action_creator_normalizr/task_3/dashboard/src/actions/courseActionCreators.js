@@ -1,4 +1,3 @@
-
 import { SELECT_COURSE, UNSELECT_COURSE } from "./courseActionTypes";
 
 export function selectCourse(index) {
